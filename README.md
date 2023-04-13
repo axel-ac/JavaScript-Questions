@@ -1,4 +1,4 @@
-# JavaScript-Questions
+# JavaScript Questions
 <table class="table">
   <thead>
     <tr>
