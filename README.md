@@ -3,7 +3,7 @@
   <thead>
     <tr>
       <th align="left" width="80%">Loops Questions</th>
-      <th align="left" width="80%">Repo Link</th>
+      <th align="left" width="20%">Repo Link</th>
     </tr>
   </thead>
   <tbody>
