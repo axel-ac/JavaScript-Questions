@@ -2,7 +2,7 @@
 <table class="table">
   <thead>
     <tr>
-      <th align="left" width="15%">Project Name</th>
+      <th align="left" width="15%">Loops Questions</th>
       <th align="left" width="15%">Repo Link</th>
     </tr>
   </thead>
