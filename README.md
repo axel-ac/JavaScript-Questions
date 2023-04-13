@@ -2,8 +2,8 @@
 <table class="table">
   <thead>
     <tr>
-      <th align="left" width="30%">Loops Questions</th>
-      <th align="left" width="30%">Repo Link</th>
+      <th align="left" width="60%">Loops Questions</th>
+      <th align="left" width="60%">Repo Link</th>
     </tr>
   </thead>
   <tbody>
